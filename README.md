@@ -3,7 +3,7 @@
 Esse módulo é um projeto dedicado ao estudo das bases do ReactJS.
 ___
 ### Palavras chave:
->ReactJS, Bundlers, Compilers, Vite, CSS modules, Desestruturação de objetos, Responsividade, Componentização, Programação Imperativa, Programação Declarativa, Estado, Propriedades, Imutabilidade, Clean Code (Código Limpo)
+>ReactJS, Bundlers, Compilers, Vite, CSS modules, Desestruturação de objetos, Responsividade, Componentização, Programação Imperativa, Programação Declarativa, Estado, Propriedades, Imutabilidade, Clean Code (Código Limpo), Generics (typescript) - Parâmetros, Extensões de Interface (Propriedades de elementos padrões do HTML), Rest Operator (...props), Spread Operator (...content)
 
 ## Conteúdo Programático do Módulo 1
 
